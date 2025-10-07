@@ -29,7 +29,7 @@ public class Main {
                 System.out.println("El promedio del grupo en Matemáticas es: " + promedio);
                 break;
 
-            case 2: // Español con ciclo while
+            case 2:
                 System.out.print("Ingrese la cantidad de estudiantes: ");
                 cantidadEstudiantes = sc.nextInt();
 
@@ -46,7 +46,7 @@ public class Main {
                 System.out.println("El promedio del grupo en Español es: " + promedio);
                 break;
 
-            case 3: // Inglés con ciclo do-while
+            case 3:
                 System.out.print("Ingrese la cantidad de estudiantes: ");
                 cantidadEstudiantes = sc.nextInt();
 
